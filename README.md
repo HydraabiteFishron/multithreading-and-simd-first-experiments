@@ -7,11 +7,11 @@ I only used clankers to get an overview of how to use the APIs but handwrote eve
 
 I was inspired by the 2 videos below:
 
-[https://youtu.be/JYo_4wXFdJc](Valigo - Multithreading is hard)
+[Valigo - Multithreading is hard](https://youtu.be/JYo_4wXFdJc)
 > valigo yaps like a nerd for 26 minutes about cache line alignment and padding.
 > also i'm pretty sure he gets something wrong... he yaps about l1 cache having 64 bytes, but he's most likely referring to the size of the cache line rather than the l1 cache. potential larper confirmed. (jk tho he's chill asf)
 
-[https://youtu.be/4nJ2tEPD4-k](ThePrimeagen - People Are Mad They're Told To Learn)
-> Mitchell Hashimoto makes article about SIMD. Larpers mad. Prime learned SIMD.
+[ThePrimeagen - People Are Mad They're Told To Learn](https://youtu.be/4nJ2tEPD4-k)
+> Mitchell Hashimoto makes article about SIMD. Larpers mad. Prime learns SIMD.
 
 
